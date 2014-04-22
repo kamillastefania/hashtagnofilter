@@ -1,0 +1,174 @@
+/** #nofilter project by Joanna Wrzaszczyk and Kamilla Kielbowska 
+
+photos by Joanna Wrzaszczyk www.joannawrzaszczyk.com
+graphic and web design by Kamilla Kielbowska www.kamillakielbowska.com
+
+**/
+
+/**
+ For NetTuts+  Author: Mohiuddin Parekh http://www.mohi.me 	@mohiuddinparekh   
+ **/
+
+
+body{
+	margin:0;
+	padding:0;
+}
+
+
+#one { 
+	background: url(../images/1.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;  
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#two { 
+	background: url(../images/2.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#three { 
+	background: url(../images/3.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#four { 
+	background: url(../images/4.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#five { 
+	background: url(../images/5.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#six { 
+	background: url(../images/6.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#seven { 
+	background: url(../images/7.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#eight { 
+	background: url(../images/8.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#nine { 
+	background: url(../images/9.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#ten { 
+	background: url(../images/10.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#eleven { 
+	background: url(../images/11.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#twelve { 
+	background: url(../images/12.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#thirteen { 
+	background: url(../images/13.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+/* Introduction */
+
+#one article { background: url("../images/logo_web.png") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#two article { background: url("../images/two3.png") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#four article { background: url("../images/three.png") no-repeat scroll center top transparent; height: 550px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#seven article { background: url("../images/seven.png") no-repeat scroll center top transparent; height: 550px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#ten article { background: url("../images/ten.png") no-repeat scroll center top transparent; height: 550px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#twelve article { background: url("../images/twelve.png") no-repeat scroll center top transparent; height: 550px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#thirteen article { background: url("../images/thirteen.png") no-repeat scroll center top transparent; height: 550px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#quote {
+	top: 910px;
+	position: absolute;
+}
+
+#intro {
+	left: 615px;
+	top: 30px;
+	position: absolute;
+}
